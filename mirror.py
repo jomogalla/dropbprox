@@ -24,7 +24,7 @@ __author__='Paulo Jerônimo (paulojeronimo@gmail.com)'
 # If you want a full proxy to run on GAE, use the mirrorr.
 
 # Set up your Dropbox user number here:
-DROPBOX_USER = '345266'
+DROPBOX_USER = '59139532'
 
 DROPBOX_PREFIX ='/dl.dropbox.com/u/'
 DEBUG = False
